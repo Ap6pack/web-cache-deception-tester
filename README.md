@@ -16,8 +16,8 @@ A Python tool for testing **Web Cache Deception (WCD) vulnerabilities** in **web
 ## **Installation**
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/Ap6pack/web-cache-deception-tester.git
-cd web-cache-deception-tester
+git clone https://github.com/Ap6pack/web-cache-deception-testing-tool.git
+cd web-cache-deception-testing-tool
 ```
 
 ### **2. Install Required Dependencies**
